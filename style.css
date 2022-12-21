@@ -4,5 +4,5 @@
 .background{
     background-image: url("error.png");
     background-color: black;
-    background-size: contain;
+    background-size: 100%;
 }
