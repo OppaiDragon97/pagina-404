@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.background{
+    background-image: url("error.png");
+    background-color: black;
+    background-size: contain;
+}
